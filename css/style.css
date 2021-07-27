@@ -307,7 +307,7 @@ body{
     height: 30px;
     width: 20%;
     align-self: center;
-    
+    cursor: pointer;
 }
 .modal-footer{
     margin: 20px;
