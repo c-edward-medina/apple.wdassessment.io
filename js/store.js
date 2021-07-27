@@ -21,6 +21,7 @@ function purchaseButtonClicked(){
     while (cartItems.hasChildNodes()) {
         cartItems.removeChild(cartItems.firstChild)
     }
+    document.querySelector('.modal').style.display="none";
 }
 function removeCartItem(event) {
     var buttonClicked = event.target

@@ -2,49 +2,49 @@ const productData = [
     {
         "name": "iPhone 12 Pro",
         "color":"Graphite",
-        "img":"../images/products/iPhone12Pro/iPhone12_Pro_Graphite.png",
+        "img":"./images/products/iPhone12Pro/iPhone12_Pro_Graphite.png",
         "price": "P62,990"
     },
     {
         "name": "iPhone 12 Pro",
         "color":"Silver",
-        "img":"../images/products/iPhone12Pro/iPhone12_Pro_Silver.png",
+        "img":"./images/products/iPhone12Pro/iPhone12_Pro_Silver.png",
         "price": "P62,990"
     },
     {
         "name": "iPhone 12 Pro",
         "color":"Gold",
-        "img":"../images/products/iPhone12Pro/iPhone12_Pro_Gold.png",
+        "img":"./images/products/iPhone12Pro/iPhone12_Pro_Gold.png",
         "price": "P62,990"
     },
     {
         "name": "iPhone 12 Pro",
         "color":"Pacific Blue",
-        "img":"../images/products/iPhone12Pro/iPhone12_Pro_PacificBlue.png",
+        "img":"./images/products/iPhone12Pro/iPhone12_Pro_PacificBlue.png",
         "price": "P62,990"
     },
     {
         "name": "iPhone 12",
         "color":"Black",
-        "img":"../images/products/iPhone12/iPhone12_Black.png",
+        "img":"./images/products/iPhone12/iPhone12_Black.png",
         "price": "P49,990"
     },
     {
         "name": "iPhone 12",
         "color":"Blue",
-        "img":"../images/products/iPhone12/iPhone12_Blue.png",
+        "img":"./images/products/iPhone12/iPhone12_Blue.png",
         "price": "P49,990"
     },
     {
         "name": "iPhone 12",
         "color":"White",
-        "img":"../images/products/iPhone12/iPhone12_White.png",
+        "img":"./images/products/iPhone12/iPhone12_White.png",
         "price": "P49,990"
     },
     {
         "name": "iPhone 12",
         "color":"Product(Red)",
-        "img":"../images/products/iPhone12/iPhone12_PRed.png",
+        "img":"./images/products/iPhone12/iPhone12_PRed.png",
         "price": "P49,990"
     },
     
