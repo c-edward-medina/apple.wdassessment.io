@@ -44,6 +44,8 @@ function addToCartClicked(event) {
     document.getElementById("cart-list").innerHTML = `
     ${cartData.map(cartTemplate).join("")}
     `;
+    
+    alert(`Added ${itemName}-${itemColor} to the shopping bag.`);
     var removeCartItemButtons = document.getElementsByClassName('button-remove')
     for (var i = 0; i < removeCartItemButtons.length; i++) {
         var button = removeCartItemButtons[i]
